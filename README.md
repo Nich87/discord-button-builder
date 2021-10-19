@@ -1,3 +1,4 @@
+[npm](https://www.npmjs.com/package/discord-button-builder)
 # 📥 | Installation
 ```bash
 npm install discord-button-builder
